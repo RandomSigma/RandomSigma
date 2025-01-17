@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @RandomSigma
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I`m slave
+- 👀 I’m interested in Sigma
+- 🌱 I’m currently learning Sigma
+- 💞️ I’m looking to collaborate on Sigma
+- 📫 How to reach me Sigma
+- 😄 Pronouns: Sigma
+- ⚡ Fun fact: I`m Sigma
 
 <!---
 RandomSigma/RandomSigma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
